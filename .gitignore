@@ -4,3 +4,5 @@ DemoAIEnv/
 # 데이터
 data/
 
+# 환경 변수 파일
+.env
